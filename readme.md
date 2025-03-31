@@ -4,7 +4,7 @@ Este script utiliza o Tesseract OCR e a biblioteca `pytesseract` para extrair te
 
 ## Pré-requisitos
 
-Antes de executar o script, é recomendado iniciar e ativar seu ambiente virtual python e após isso instalar o Tesseract OCR e as bibliotecas Python necessárias.
+Antes de executar o script, é recomendado iniciar e ativar seu ambiente virtual python e após isso instalar o Tesseract OCR e as bibliotecas Python necessárias que estão no arquivo `requirements.txt`.
 
 ### 1. Instalar o Tesseract OCR
 Execute o seguinte comando para instalar o Tesseract OCR no seu sistema:
